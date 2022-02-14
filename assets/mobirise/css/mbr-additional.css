@@ -2836,3 +2836,30 @@ a {
 .cid-sWoay0i63u .media-container-row .mbr-text {
   color: #000000;
 }
+
+.logo-agenda {
+  max-width: 10%;
+  height: auto;
+}
+
+logo-gdf {
+  max-width: 13%;
+}
+
+.logo-waldir {
+  max-width: 10%;
+}
+
+.logo-gdf {
+  max-width: 15%;
+}
+
+.logo-fac {
+  max-width: 15%;
+}
+
+logo {
+  margin: initial;
+}
+
+
