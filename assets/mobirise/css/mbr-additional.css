@@ -2842,24 +2842,29 @@ a {
   height: auto;
 }
 
-logo-gdf {
+.logo-gdf {
   max-width: 13%;
+  height: auto;
 }
 
 .logo-waldir {
   max-width: 10%;
+  height: auto;
 }
 
 .logo-gdf {
   max-width: 15%;
+  height: auto;
 }
 
 .logo-fac {
   max-width: 15%;
+  height: auto;
 }
 
-logo {
+.logo {
   margin: initial;
+  height: auto;
 }
 
 
